@@ -1,15 +1,15 @@
-# fly.toml app configuration file generated for kalshi-proxy-m3fxqa on 2026-01-28T01:52:59Z
+# fly.toml app configuration file generated for kalshi-proxy-6so9ea on 2026-01-28T02:05:25Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'kalshi-proxy-m3fxqa'
+app = 'kalshi-proxy-6so9ea'
 primary_region = 'iad'
 
 [build]
 
 [http_service]
-  internal_port = 8080
+  internal_port = 3000
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true
