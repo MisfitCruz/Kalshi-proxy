@@ -1,4 +1,4 @@
-app = "kalshi-proxy-anthonyc1208"
+app = kalshi-proxy-6so9ea
 primary_region = "iad"
 
 [http_service]
